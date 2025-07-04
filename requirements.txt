@@ -1,0 +1,11 @@
+streamlit
+langchain
+chromadb
+transformers
+sentence-transformers
+accelerate
+torch
+PyMuPDF
+python-dotenv
+
+langchain-community
