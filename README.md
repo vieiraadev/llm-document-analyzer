@@ -18,6 +18,7 @@ A arquitetura RAG combina **busca vetorial com geração por linguagem natural**
 
 ---
 
+
 ## 🚀 Funcionalidades
 
 1. **Upload de PDFs**  
